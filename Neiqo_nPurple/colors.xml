@@ -3,7 +3,7 @@
 
 	<!-- Generate with DofusTools ThemeMaker -->
 
-	<entry key="chat.bgColor">0x212121</entry>
+	<entry key="chat.bgColor">0x000000</entry>
 	<entry key="combobox.over">0x903d3d33</entry>
 	<entry key="combobox.selected">0x252c2d25</entry>
 	<entry key="contextmenu.bg">0x000000</entry>
